@@ -29,7 +29,7 @@ Proceedings of the IEEE 2024. [[pdf](https://arxiv.org/pdf/2205.07424)]
 *Wu B, Li J, Yu J, et al.*<br>
 Arxiv 2022. [[pdf](https://arxiv.org/pdf/2205.10014)]  
 
-## Calibration
+## GNN Calibration
 
 ### Regularization during training
 
