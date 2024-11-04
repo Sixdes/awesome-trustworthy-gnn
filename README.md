@@ -86,7 +86,15 @@ ICJNN 2022. [[pdf](https://arxiv.org/pdf/2206.01570)]  ↔️ [[code](https://gi
 NeurIPS 2021. [[pdf](https://proceedings.neurips.cc/paper/2021/file/c7a9f13a6c0940277d46706c7ca32601-Paper.pdf)] 
 ↔️ [[code](https://github.com/BUPT-GAMMA/CaGCN)]
 
+**Mix-n-match : Ensemble and compositional methods for uncertainty calibration in deep learning.**<br>
+*Zhang J, Kailkhura B, Han T Y J.*<br>
+ICML 2020. [[pdf](http://proceedings.mlr.press/v119/zhang20k/zhang20k.pdf)] 
+↔️ [[code](https://github.com/zhang64-llnl/Mix-n-Match-Calibration)]
 
+**On calibration of modern neural networks.**<br>
+*Guo C, Pleiss G, Sun Y, et al.*<br>
+ICML 2017. [[pdf](http://proceedings.mlr.press/v70/guo17a/guo17a.pdf)] 
+↔️ [[code](https://github.com/gpleiss/temperature_scaling)]
 
 ## Uncertainty Estimation VS Quantification
 
